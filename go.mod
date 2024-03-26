@@ -1,4 +1,4 @@
-module github.com/dharmx/trek
+module github.com/dharmx/rizz
 
 go 1.22.1
 
